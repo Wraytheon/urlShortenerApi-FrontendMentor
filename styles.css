@@ -1,0 +1,20 @@
+::root {
+  background-color: white;
+  --cyan: hsl(180, 66%, 49%);
+  --lgray: hsl(0, 0%, 75%);
+  --red: hsl(0, 87%, 67%);
+  --mgray: hsl(257, 7%, 63%);
+  --mpurp: hsl(255, 11%, 22%);
+  --dpurp: hsl(260, 8%, 14%);
+  --lpurp: hsl(257, 27%, 26%);
+
+  --base-font: 18px;
+  --small-font: 500;
+  --lrg-font: 700;
+}
+
+* {
+  box-sizing: border-box;
+  outline: 1px solid red;
+}
+
